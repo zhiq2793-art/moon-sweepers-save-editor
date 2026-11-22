@@ -7,6 +7,8 @@ Want to customize it yourself? Pull the source files. Want a plug-and-play versi
 使用前请关闭游戏，并且确保Steam云存档关闭，不然steam云存档会顶掉你改好的存档
 Before using it, close the game and make sure Steam Cloud is turned off for this game — otherwise Steam Cloud can overwrite your edited save.
 
+——————————————————————————————————————————
+
 告知原因：
 由于作者忘记写英文版的了，现在 EXE 运行后只有中文，BAT 也一样。以下是中英对照版本，方便非中文用户理解。
 
