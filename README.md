@@ -13,9 +13,7 @@ Before using it, close the game and make sure Steam Cloud is turned off for this
 Reason:
 The author forgot to include an English version, so the EXE and BAT currently show Chinese only. Below is a Chinese-English reference for non-Chinese users.
 
-============================================================
   中英对照 / Chinese-English Reference
-============================================================
 
 Moon Sweepers 团队钱包修改器
 = Moon Sweepers Team Wallet Editor
@@ -58,10 +56,8 @@ Moon Sweepers 团队钱包修改器
 
 Example
 
-============================================================
   Moon Sweepers Team Wallet Editor
-============================================================
-
+  
 Save root: C:\Users\ZhiQiu\AppData\LocalLow\DragDropGames\MoonSweepers\MoonSessions
 
 Found 1 save slot:
